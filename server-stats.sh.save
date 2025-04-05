@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#print Os version
+
+echo "os version: $(lsb_release -d | awk -F"\t" '{print $2}')"
+
+
+
