@@ -1,1 +1,0 @@
-nano server-stats.sh
